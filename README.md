@@ -1,2 +1,3 @@
-# python-data-analysis-project
-End-to-End Data Analysis Project in Python
+﻿# Python Data Analysis Project
+
+This repository will contain an end-to-end data analysis project in Python.
